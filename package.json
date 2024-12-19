@@ -1,0 +1,17 @@
+{
+  "name": "autochaining",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pngjs": "^7.0.0",
+    "robotjs": "^0.6.0",
+    "tesseract.js": "^5.1.1"
+  }
+}
